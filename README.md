@@ -31,11 +31,6 @@
   </p>
 
   <br>
-
-
-  <br>
-
-
   <h3>Proyectos</h3>
   
   <a href="https://github.com/Quiroz23/QRAppPases">
