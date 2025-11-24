@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=000000&size=35&center=true&vCenter=true&width=500&lines=QUIROZ;El+Camino+del+Desarrollador;Full+Stack+Ronin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=000000&size=35&center=true&vCenter=true&width=500&lines=QUIROZ;El+Camino+del+Desarrollador;Full+Stack" alt="Typing SVG" />
   <br>
   <h3>「 創 造 者 」</h3>
   <p>
