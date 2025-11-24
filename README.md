@@ -17,7 +17,7 @@
   <br>
   ---
   <br>
-  ### ⚔️ Mi Arsenal (Tech Stack)
+  Stack
   <p>
     <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=black" alt="React Native" />
     <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" alt="TypeScript" />
