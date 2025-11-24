@@ -28,7 +28,7 @@
   <br>
   ---
   <br>
-  ### 📜 Crónicas Recientes (Proyectos)
+  ### Proyectos
   <a href="https://github.com/Quiroz23/QRAppPases">
     <img src="https://img.shields.io/badge/🥋_QRAppPases-Ver_Código-000000?style=flat-square&logo=github&logoColor=white&labelColor=black" alt="QRAppPases">
   </a>
