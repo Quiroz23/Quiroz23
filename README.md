@@ -1,42 +1,33 @@
 <div align="center">
-  <h1>👋 Hola, soy Quiroz</h1>
-  <h3>Desarrollador Full Stack | React Native & Python Enthusiast</h3>
+  <img src="https://user-images.githubusercontent.com/16662259/123166554-76331300-d43c-11eb-8026-7e934f002803.png" width="100%" height="20px" alt="Brush Stroke Divider">
   
-  <p>
-    Actualmente finalizando mi práctica profesional y trabajando en proyectos de 
-    <b>Gestión Académica</b> y <b>Sistemas Distribuidos</b>.
-  </p>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&color=000000&size=35&center=true&vCenter=true&width=500&lines=QUIROZ;El+Camino+del+Desarrollador;Full+Stack+Ronin" alt="Typing SVG" /></h1>
 
-  <a href="https://www.linkedin.com/in/cristian-quiroz-fernandez-57939a212/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</div>
+  <img src="https://user-images.githubusercontent.com/16662259/123166554-76331300-d43c-11eb-8026-7e934f002803.png" width="100%" height="20px" alt="Brush Stroke Divider">
 
----
+<br>
 
-### 🚀 Stack Tecnológico
+### 「 創 造 者 」
+*(El Creador / Developer)*
 
-Me especializo en crear soluciones móviles ágiles y backends robustos.
+> **"No hay luz para quien no conoce la oscuridad. Refinar el código es refinar el espíritu."**
 
-| **Frontend & Mobile** | **Backend & Data** | **Herramientas** |
-|:---:|:---:|:---:|
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-| ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
+<br>
 
----
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="100%"/>
 
-### 💻 Proyectos Destacados
+<br>
 
-* 📱 **[QRAppPases](https://github.com/Quiroz23/QRAppPases):** Sistema móvil de control de asistencia escolar usando **React Native (Expo)** y arquitectura Serverless con **Google Apps Script**.
-* 🐍 **[Re-Project-Backend](https://github.com/Quiroz23/Re-Project-Backend):** API escalable para gestión de proyectos desarrollada en **Python**.
-* 🎨 **[Re-Project-Front](https://github.com/Quiroz23/Re-Project-Front):** Interfaz moderna y colaborativa para la gestión de tareas.
+### ⚔️ Mi Arsenal (Tech Stack)
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white&labelColor=black" alt="Expo" />
+  <img src="https://img.shields.io/badge/Apps_Script-000000?style=for-the-badge&logo=google&logoColor=white&labelColor=black" alt="Google Apps Script" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=black" alt="Git" />
+</p>
 
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quiroz23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Quiroz" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz23&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="150" />
-</div>
+<br>
+<img src="https://user-images.githubusercontent
