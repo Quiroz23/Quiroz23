@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=FFFFFF&size=32&center=true&vCenter=true&width=500&height=50&lines=QUIROZ;El+Camino+del+Desarrollador;Full+Stack+Ronin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&color=FFFFFF&size=32&center=true&vCenter=true&width=500&height=50&lines=QUIROZ;El+Camino+del+Desarrollador;Full+Stack" alt="Typing SVG" />
 
 
   <p><i>「 創 造 者 」</i></p>
@@ -20,7 +20,7 @@
   </p>
 
 
-  <h3>⚔️ ARSENAL</h3>
+  <h3>Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black" />
@@ -38,7 +38,7 @@
   <br>
 
 
-  <h3>📜 CRÓNICAS</h3>
+  <h3>Proyectos</h3>
   
   <a href="https://github.com/Quiroz23/QRAppPases">
     <img src="https://img.shields.io/badge/🥋_QRAppPases-Ver_Código-1a1a1a?style=flat-square&logo=github&logoColor=gray&labelColor=black" alt="QRAppPases">
@@ -57,7 +57,7 @@
   <br>
 
 
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&color=333333&size=40&center=true&vCenter=true&width=100&height=50&lines=道" alt="Do" /></h1>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&color=FFFFFF&size=40&center=true&vCenter=true&width=100&height=50&lines=道" alt="Do" /></h1>
   
   <p style="color: #444444;"><i>(El Camino continúa...)</i></p>
 
