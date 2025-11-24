@@ -29,15 +29,12 @@
     <img src="https://img.shields.io/badge/Google_Apps-000000?style=for-the-badge&logo=google&logoColor=white&labelColor=black" />
     <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=black" />
   </p>
-
-  <br>
   <h3>Proyectos</h3>
-  
   <a href="https://github.com/Quiroz23/QRAppPases">
     <img src="https://img.shields.io/badge/🥋_QRAppPases-Ver_Código-1a1a1a?style=flat-square&logo=github&logoColor=gray&labelColor=black" alt="QRAppPases">
   </a>
   <br>
-  <i>Sistema de asistencia escolar. Serverless.</i>
+  <i>Sistema de asistencia escolar.</i>
   <br>
   <br>
   <a href="https://github.com/Quiroz23/Re-Project-Backend">
