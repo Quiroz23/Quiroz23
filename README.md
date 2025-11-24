@@ -33,8 +33,6 @@
   <br>
 
 
-  <img src="https://user-images.githubusercontent.com/16662259/123166554-76331300-d43c-11eb-8026-7e934f002803.png" width="80%" height="2px" alt="divider">
-
   <br>
 
 
