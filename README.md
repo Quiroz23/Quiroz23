@@ -3,7 +3,7 @@
   <br>
   <h3>「 創 造 者 」</h3>
   <p>
-    <b>"No hay luz para quien no conoce la oscuridad.<br>Refinar el código es refinar el espíritu."</b>
+    <b>"No hay luz para quien no conoce la oscuridad".
   </p>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
