@@ -18,7 +18,7 @@
 
   <br>
 
-  <h3>⚔️ Arsenal Técnico</h3>
+  <h3>⚔️ Stack</h3>
   <p>
     <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
@@ -36,7 +36,7 @@
 
   <br>
 
-  <h3>🏯 Proyectos Destacados</h3>
+  <h3>Proyectos Destacados</h3>
 
   <table align="center" border="0">
     <tr>
@@ -67,7 +67,7 @@
   <br>
   <br>
 
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&color=FFFFFF&size=40&center=true&vCenter=true&width=100&height=60&lines=道;Do" alt="Do" /></h1>
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&color=FFFFFF&size=40&center=true&vCenter=true&width=100&height=60&lines=道;" alt="" /></h1>
   
   <p style="color: #666666;"><i>(El código es el camino)</i></p>
 
