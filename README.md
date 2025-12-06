@@ -69,7 +69,6 @@
 
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&color=FFFFFF&size=40&center=true&vCenter=true&width=100&height=60&lines=道;" alt="" /></h1>
   
-  <p style="color: #666666;"><i>(El código es el camino)</i></p>
 
   <a href="https://www.linkedin.com/in/cristian-quiroz-fernandez-57939a212/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
