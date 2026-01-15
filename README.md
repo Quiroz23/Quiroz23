@@ -8,12 +8,8 @@
   <br>
 
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=Quiroz23&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide=issues,contribs&include_all_commits=true" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz23&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&langs_count=6" />
-    </a>
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Quiroz23&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide=issues,contribs&include_all_commits=true&cache_seconds=86400" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz23&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&langs_count=6&cache_seconds=86400" />
   </p>
 
   <br>
