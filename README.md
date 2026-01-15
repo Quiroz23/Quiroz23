@@ -23,10 +23,12 @@
     <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white" />
     <br>
+    <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -40,7 +42,7 @@
 
   <table align="center" border="0">
     <tr>
-      <td align="center" width="300">
+      <td align="center" width="280">
         <a href="https://github.com/Quiroz23/QRAppPases">
           <img src="https://img.shields.io/badge/QRAppPases-Ver_Código-white?style=flat-square&logo=github&logoColor=black&labelColor=1a1a1a" alt="QRAppPases">
         </a>
@@ -50,7 +52,7 @@
         <img src="https://img.shields.io/badge/Expo-000?style=flat&logo=expo&logoColor=white">
         <img src="https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase&logoColor=white">
       </td>
-      <td align="center" width="300">
+      <td align="center" width="280">
         <a href="https://github.com/Quiroz23/Re-Project-Backend">
           <img src="https://img.shields.io/badge/Re--Project-Ver_Código-white?style=flat-square&logo=github&logoColor=black&labelColor=1a1a1a" alt="Re-Project-Backend">
         </a>
@@ -60,6 +62,16 @@
         <img src="https://img.shields.io/badge/Django-000?style=flat&logo=django&logoColor=white">
         <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=white">
+      </td>
+      <td align="center" width="280">
+        <a href="https://github.com/Quiroz23/FollowJobsJ">
+          <img src="https://img.shields.io/badge/FollowJobs-Ver_Código-white?style=flat-square&logo=github&logoColor=black&labelColor=1a1a1a" alt="FollowJobsJ">
+        </a>
+        <br><br>
+        <i>API REST para tracking de postulaciones laborales.</i>
+        <br>
+        <img src="https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Boot-000?style=flat&logo=springboot&logoColor=white">
       </td>
     </tr>
   </table>
