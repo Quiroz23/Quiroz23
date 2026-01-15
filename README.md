@@ -5,12 +5,6 @@
   <p><i>「 創 造 者 」</i></p>
 
   <p><b>"No hay luz para quien no conoce la oscuridad."</b></p>
-  <br>
-
-  <p>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Quiroz23&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&hide=issues,contribs&include_all_commits=true&cache_seconds=86400" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quiroz23&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&langs_count=6&cache_seconds=86400" />
-  </p>
 
   <br>
 
