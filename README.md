@@ -101,17 +101,6 @@
         <img src="https://img.shields.io/badge/Spring_Boot-000?style=flat&logo=springboot&logoColor=white">
         <img src="https://img.shields.io/badge/Swagger-000?style=flat&logo=swagger&logoColor=white">
       </td>
-      <td align="center" width="280">
-        <a href="https://github.com/Quiroz23/portafolio">
-          <img src="https://img.shields.io/badge/Portafolio-Ver_Código-white?style=flat-square&logo=github&logoColor=black&labelColor=1a1a1a" alt="Portafolio">
-        </a>
-        <br><br>
-        <i>Sitio web profesional con interfaz XMB, tema claro/oscuro y visor de certificados.</i>
-        <br>
-        <img src="https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/SCSS-000?style=flat&logo=sass&logoColor=white">
-      </td>
     </tr>
   </table>
 
